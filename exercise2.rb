@@ -8,7 +8,8 @@ total = tipcalculator(55,0.2)
 puts "You should tip #{total} on top of your bill"
 
 #Solution to question 2
-
+add = "10" + 10.to_s
+puts "#{add}"
 
 #Solution to question 3
 a = 45628
