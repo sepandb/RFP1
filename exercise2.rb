@@ -9,6 +9,7 @@ puts "You should tip #{total} on top of your bill"
 
 #Solution to question 2
 
+
 #Solution to question 3
 a = 45628
 b = 7839
